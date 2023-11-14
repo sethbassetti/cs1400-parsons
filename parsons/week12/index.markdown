@@ -7,7 +7,7 @@ title: Week 12 Parsons Problems
 <summary>Week 12</summary>
 
 - **Wednesday**
-  - [Linear Search](./linear_search.md)
+  - [Linear Search](./linear_search.markdown)
 
 - **Friday**
 

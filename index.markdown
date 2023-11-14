@@ -9,6 +9,4 @@ title: Parsons Problems Homepage
 Use the below list to navigate to the exercises for the given week!
 
 ## Exercises
-- [Week 12](./parsons/week12/index.md)
-- [Week 13](./parsons/week13/index.md)
-- [Week 14](./parsons/week14/index.md)
+- [Week 12](./parsons/week12/index.markdown)
