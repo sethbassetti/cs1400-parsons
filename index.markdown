@@ -9,4 +9,4 @@ title: Parsons Problems Homepage
 Use the below list to navigate to the exercises for the given week!
 
 ## Exercises
-- [Week 12](./parsons/week12/index.markdown)
+- [Week 12](./parsons/week12/index.html)
