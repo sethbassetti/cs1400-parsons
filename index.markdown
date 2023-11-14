@@ -3,21 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Multiple Parson's Problems on One Page
+title: Parsons Problems Homepage
 ---
 # CS1400 Parsons Problems
-
-
-### Example Next Link
-[Next](./parsons/example1.md)
+Use the below list to navigate to the exercises for the given week!
 
 ## Exercises
-<details>
-<summary>Week 12:</summary>
-
-- **Wednesday:**
-  - [Exercise 1 Link](#./parsons/week12/monday/linear_search.html)
-  - [Exercise 2 Link](#)
-
-</details>
-
+- [Week 12](./parsons/week12/index.md)
+- [Week 13](./parsons/week13/index.md)
+- [Week 14](./parsons/week14/index.md)
